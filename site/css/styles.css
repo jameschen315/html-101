@@ -1,0 +1,25 @@
+.image-container {
+			max-width: 100%;
+			height: auto;
+			overflow: hidden;
+	}
+img {
+	width: 100px;
+	border-radius: 10px;
+	float: left;
+	margin-right: 10px;
+	object-fit: cover;
+}
+.username {
+	font-weight: bold;
+}
+#reg_text {
+	font-style: italic;
+}
+em {
+	color: red;
+	font-style: normal;
+}
+h2 {
+	text-align: left;
+}
